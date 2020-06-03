@@ -1,12 +1,12 @@
-Region,Market,Category,Brand,Product,Spend,Impressions,Clicks,Video Views
-EMEA,Nigeria,Pain Management,Panadol,Panadol,1586.031906,446867,605,446867
-EMEA,Nigeria,Oral Health,Aquafresh,Aquafresh Fresh & Minty,4155.992147,1065421,1412,1065421
-EMEA,Nigeria,Pain Management,Panadol,Panadol,424.9255417,136685,169,136685
-EMEA,Nigeria,Oral Health,Sensodyne,Sensodyne,753.3740896,368845,472,368845
-EMEA,Nigeria,Oral Health,Sensodyne,Sensodyne,916.9906209,2158406,464,2158406
-EMEA,Nigeria,Oral Health,Sensodyne,Sensodyne,738.7772391,370746,490,370746
-EMEA,Nigeria,Oral Health,Sensodyne,Sensodyne,173.9583322,70024,91,70024
-EMEA,Nigeria,Oral Health,Sensodyne,Sensodyne,418.4134357,544567,326,544567
-EMEA,Nigeria,Oral Health,Sensodyne,Sensodyne,210.8597948,563887,0,563887
-EMEA,Nigeria,Pain Management,Panadol,Panadol,0,0,1,0
-EMEA,Nigeria,Oral Health,Sensodyne,Sensodyne,219.1758617,55771,104,55771
+Spend,Impressions,Clicks,Video Views
+1586.031906,446867,605,446867
+4155.992147,1065421,1412,1065421
+424.9255417,136685,169,136685
+753.3740896,368845,472,368845
+916.9906209,2158406,464,2158406
+738.7772391,370746,490,370746
+173.9583322,70024,91,70024
+418.4134357,544567,326,544567
+210.8597948,563887,0,563887
+0,0,1,0
+219.1758617,55771,104,55771
